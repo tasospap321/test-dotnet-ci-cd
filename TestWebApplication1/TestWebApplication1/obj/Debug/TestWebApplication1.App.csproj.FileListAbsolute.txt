@@ -1,3 +1,11 @@
+C:\Users\AnastasiosPapadopoul\OneDrive\Misc\Workspace\test-dotnet-ci-cd\TestWebApplication1\TestWebApplication1\bin\NUnit.VisualStudio.TestAdapter.dll
+C:\Users\AnastasiosPapadopoul\OneDrive\Misc\Workspace\test-dotnet-ci-cd\TestWebApplication1\TestWebApplication1\bin\Mono.Cecil.dll
+C:\Users\AnastasiosPapadopoul\OneDrive\Misc\Workspace\test-dotnet-ci-cd\TestWebApplication1\TestWebApplication1\bin\Mono.Cecil.Mdb.dll
+C:\Users\AnastasiosPapadopoul\OneDrive\Misc\Workspace\test-dotnet-ci-cd\TestWebApplication1\TestWebApplication1\bin\Mono.Cecil.Pdb.dll
+C:\Users\AnastasiosPapadopoul\OneDrive\Misc\Workspace\test-dotnet-ci-cd\TestWebApplication1\TestWebApplication1\bin\Mono.Cecil.Rocks.dll
+C:\Users\AnastasiosPapadopoul\OneDrive\Misc\Workspace\test-dotnet-ci-cd\TestWebApplication1\TestWebApplication1\bin\nunit.core.dll
+C:\Users\AnastasiosPapadopoul\OneDrive\Misc\Workspace\test-dotnet-ci-cd\TestWebApplication1\TestWebApplication1\bin\nunit.core.interfaces.dll
+C:\Users\AnastasiosPapadopoul\OneDrive\Misc\Workspace\test-dotnet-ci-cd\TestWebApplication1\TestWebApplication1\bin\nunit.util.dll
 C:\Users\AnastasiosPapadopoul\OneDrive\Misc\Workspace\test-dotnet-ci-cd\TestWebApplication1\TestWebApplication1\bin\TestWebApplication1.dll.config
 C:\Users\AnastasiosPapadopoul\OneDrive\Misc\Workspace\test-dotnet-ci-cd\TestWebApplication1\TestWebApplication1\bin\TestWebApplication1.dll
 C:\Users\AnastasiosPapadopoul\OneDrive\Misc\Workspace\test-dotnet-ci-cd\TestWebApplication1\TestWebApplication1\bin\TestWebApplication1.pdb
@@ -82,4 +90,3 @@ C:\Users\AnastasiosPapadopoul\OneDrive\Misc\Workspace\test-dotnet-ci-cd\TestWebA
 C:\Users\AnastasiosPapadopoul\OneDrive\Misc\Workspace\test-dotnet-ci-cd\TestWebApplication1\TestWebApplication1\obj\Debug\TestWebApplication1.App.csproj.CopyComplete
 C:\Users\AnastasiosPapadopoul\OneDrive\Misc\Workspace\test-dotnet-ci-cd\TestWebApplication1\TestWebApplication1\obj\Debug\TestWebApplication1.dll
 C:\Users\AnastasiosPapadopoul\OneDrive\Misc\Workspace\test-dotnet-ci-cd\TestWebApplication1\TestWebApplication1\obj\Debug\TestWebApplication1.pdb
-C:\Users\AnastasiosPapadopoul\OneDrive\Misc\Workspace\test-dotnet-ci-cd\TestWebApplication1\TestWebApplication1\obj\Debug\TestWebApplication1.App.csproj.AssemblyReference.cache
