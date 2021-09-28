@@ -1,11 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "UGbFlnjiGdOuH/wDBMFlKwU5fANKVHNFkkzz/9geD0HXD45mXJcELCMVXtehBWyIgfKTuJNLlA0Bh5+pHSigkQ==",
+  "dgSpecHash": "bhWqVcfIEBEdjSvVpM5ZY61h4NKofrxPmxCnH+ogVy2UAYlG7TY+eOY2tANrfmRngM5izBnv5g/FK+oGisnmLA==",
   "success": true,
   "projectFilePath": "C:\\Users\\AnastasiosPapadopoul\\OneDrive\\Misc\\Workspace\\test-dotnet-ci-cd\\TestWebApplication1\\TestWebApplication1.Tests\\TestWebApplication1.Tests.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\AnastasiosPapadopoul\\.nuget\\packages\\microsoft.aspnet.webapi\\5.2.3\\microsoft.aspnet.webapi.5.2.3.nupkg.sha512",
+    "C:\\Users\\AnastasiosPapadopoul\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.3\\microsoft.aspnet.webapi.client.5.2.3.nupkg.sha512",
+    "C:\\Users\\AnastasiosPapadopoul\\.nuget\\packages\\microsoft.aspnet.webapi.core\\5.2.3\\microsoft.aspnet.webapi.core.5.2.3.nupkg.sha512",
+    "C:\\Users\\AnastasiosPapadopoul\\.nuget\\packages\\microsoft.aspnet.webapi.webhost\\5.2.3\\microsoft.aspnet.webapi.webhost.5.2.3.nupkg.sha512",
     "C:\\Users\\AnastasiosPapadopoul\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
     "C:\\Users\\AnastasiosPapadopoul\\.nuget\\packages\\microsoft.net.test.sdk\\16.5.0\\microsoft.net.test.sdk.16.5.0.nupkg.sha512",
+    "C:\\Users\\AnastasiosPapadopoul\\.nuget\\packages\\newtonsoft.json\\6.0.4\\newtonsoft.json.6.0.4.nupkg.sha512",
     "C:\\Users\\AnastasiosPapadopoul\\.nuget\\packages\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
     "C:\\Users\\AnastasiosPapadopoul\\.nuget\\packages\\nunit3testadapter\\3.16.1\\nunit3testadapter.3.16.1.nupkg.sha512"
   ],

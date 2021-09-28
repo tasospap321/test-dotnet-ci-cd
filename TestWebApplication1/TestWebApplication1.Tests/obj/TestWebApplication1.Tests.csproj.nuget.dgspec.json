@@ -27,7 +27,11 @@
         "frameworks": {
           "net462": {
             "targetAlias": "net462",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\AnastasiosPapadopoul\\OneDrive\\Misc\\Workspace\\test-dotnet-ci-cd\\TestWebApplication1\\TestWebApplication1\\TestWebApplication1.App.csproj": {
+                "projectPath": "C:\\Users\\AnastasiosPapadopoul\\OneDrive\\Misc\\Workspace\\test-dotnet-ci-cd\\TestWebApplication1\\TestWebApplication1\\TestWebApplication1.App.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -40,6 +44,10 @@
         "net462": {
           "targetAlias": "net462",
           "dependencies": {
+            "Microsoft.AspNet.WebApi": {
+              "target": "Package",
+              "version": "[5.2.3, )"
+            },
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
               "version": "[16.5.0, )"
@@ -55,6 +63,16 @@
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
+      }
+    },
+    "C:\\Users\\AnastasiosPapadopoul\\OneDrive\\Misc\\Workspace\\test-dotnet-ci-cd\\TestWebApplication1\\TestWebApplication1\\TestWebApplication1.App.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\AnastasiosPapadopoul\\OneDrive\\Misc\\Workspace\\test-dotnet-ci-cd\\TestWebApplication1\\TestWebApplication1\\TestWebApplication1.App.csproj",
+        "projectName": "TestWebApplication1.App",
+        "projectPath": "C:\\Users\\AnastasiosPapadopoul\\OneDrive\\Misc\\Workspace\\test-dotnet-ci-cd\\TestWebApplication1\\TestWebApplication1\\TestWebApplication1.App.csproj"
+      },
+      "frameworks": {
+        "net462": {}
       }
     }
   }

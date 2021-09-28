@@ -2,7 +2,7 @@ using NUnit.Framework;
 
 namespace TestWebApplication1.Tests
 {
-    public class Tests
+    public class Tests : CommonTest
     {
         [SetUp]
         public void Setup()
@@ -19,6 +19,13 @@ namespace TestWebApplication1.Tests
         public void Test2()
         {
             Assert.True(true);
+        }
+
+        [Test]
+        public void Test_ValuesController_Get()
+        {
+            var response = valuesController.Get();
+            Assert.NotNull(response);
         }
     }
 }
