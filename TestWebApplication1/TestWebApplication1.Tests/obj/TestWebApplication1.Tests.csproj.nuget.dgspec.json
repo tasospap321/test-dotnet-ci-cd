@@ -69,7 +69,12 @@
       "restore": {
         "projectUniqueName": "C:\\Users\\AnastasiosPapadopoul\\OneDrive\\Misc\\Workspace\\test-dotnet-ci-cd\\TestWebApplication1\\TestWebApplication1\\TestWebApplication1.App.csproj",
         "projectName": "TestWebApplication1.App",
-        "projectPath": "C:\\Users\\AnastasiosPapadopoul\\OneDrive\\Misc\\Workspace\\test-dotnet-ci-cd\\TestWebApplication1\\TestWebApplication1\\TestWebApplication1.App.csproj"
+        "projectPath": "C:\\Users\\AnastasiosPapadopoul\\OneDrive\\Misc\\Workspace\\test-dotnet-ci-cd\\TestWebApplication1\\TestWebApplication1\\TestWebApplication1.App.csproj",
+        "frameworks": {
+          "net462": {
+            "projectReferences": {}
+          }
+        }
       },
       "frameworks": {
         "net462": {}
