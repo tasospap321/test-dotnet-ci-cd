@@ -11,7 +11,6 @@ C:\Users\AnastasiosPapadopoul\OneDrive\Misc\Workspace\test-dotnet-ci-cd\TestWebA
 C:\Users\AnastasiosPapadopoul\OneDrive\Misc\Workspace\test-dotnet-ci-cd\TestWebApplication1\TestWebApplication1.Tests\obj\Debug\net462\TestWebApplication1.Tests.AssemblyInfoInputs.cache
 C:\Users\AnastasiosPapadopoul\OneDrive\Misc\Workspace\test-dotnet-ci-cd\TestWebApplication1\TestWebApplication1.Tests\obj\Debug\net462\TestWebApplication1.Tests.AssemblyInfo.cs
 C:\Users\AnastasiosPapadopoul\OneDrive\Misc\Workspace\test-dotnet-ci-cd\TestWebApplication1\TestWebApplication1.Tests\obj\Debug\net462\TestWebApplication1.Tests.csproj.CoreCompileInputs.cache
-C:\Users\AnastasiosPapadopoul\OneDrive\Misc\Workspace\test-dotnet-ci-cd\TestWebApplication1\TestWebApplication1.Tests\obj\Debug\net462\TestWebApplication1.Tests.csproj.CopyComplete
 C:\Users\AnastasiosPapadopoul\OneDrive\Misc\Workspace\test-dotnet-ci-cd\TestWebApplication1\TestWebApplication1.Tests\obj\Debug\net462\TestWebApplication1.Tests.dll
 C:\Users\AnastasiosPapadopoul\OneDrive\Misc\Workspace\test-dotnet-ci-cd\TestWebApplication1\TestWebApplication1.Tests\obj\Debug\net462\TestWebApplication1.Tests.pdb
 C:\Users\AnastasiosPapadopoul\OneDrive\Misc\Workspace\test-dotnet-ci-cd\TestWebApplication1\TestWebApplication1.Tests\bin\Debug\net462\NUnit.VisualStudio.TestAdapter.dll
@@ -42,3 +41,7 @@ C:\Users\AnastasiosPapadopoul\OneDrive\Misc\Workspace\test-dotnet-ci-cd\TestWebA
 C:\Users\AnastasiosPapadopoul\OneDrive\Misc\Workspace\test-dotnet-ci-cd\TestWebApplication1\TestWebApplication1.Tests\bin\Debug\net462\System.Web.WebPages.Razor.xml
 C:\Users\AnastasiosPapadopoul\OneDrive\Misc\Workspace\test-dotnet-ci-cd\TestWebApplication1\TestWebApplication1.Tests\bin\Debug\net462\System.Web.Razor.xml
 C:\Users\AnastasiosPapadopoul\OneDrive\Misc\Workspace\test-dotnet-ci-cd\TestWebApplication1\TestWebApplication1.Tests\bin\Debug\net462\System.Web.WebPages.Deployment.xml
+C:\Users\AnastasiosPapadopoul\OneDrive\Misc\Workspace\test-dotnet-ci-cd\TestWebApplication1\TestWebApplication1.Tests\bin\Debug\net462\TestWebApplication1.Tests.dll.config
+C:\Users\AnastasiosPapadopoul\OneDrive\Misc\Workspace\test-dotnet-ci-cd\TestWebApplication1\TestWebApplication1.Tests\obj\Debug\net462\TestWebApplication1.Tests.Resources.CampaignData.resources
+C:\Users\AnastasiosPapadopoul\OneDrive\Misc\Workspace\test-dotnet-ci-cd\TestWebApplication1\TestWebApplication1.Tests\obj\Debug\net462\TestWebApplication1.Tests.csproj.GenerateResource.cache
+C:\Users\AnastasiosPapadopoul\OneDrive\Misc\Workspace\test-dotnet-ci-cd\TestWebApplication1\TestWebApplication1.Tests\obj\Debug\net462\TestWebApplication1.Tests.csproj.CopyComplete

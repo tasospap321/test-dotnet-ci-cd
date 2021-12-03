@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "qljYjFsn4XLmnIwFJJiI43BfAcigrlrX6Y5enD0xz6uZYck+WWDJ+2OHZA0NIjxLK9YPwXcHmVS0ZG9hlhlo4Q==",
+  "dgSpecHash": "kR/VZYAF3s9kJR0uBygg8OAUoqdYlRiv2Kg5eJgcq81RmOjxUpa0tsbVxtL4UYnOuCufG+1Jq+YRO8u4bO/PPg==",
   "success": true,
   "projectFilePath": "C:\\Users\\AnastasiosPapadopoul\\OneDrive\\Misc\\Workspace\\test-dotnet-ci-cd\\TestWebApplication1\\TestWebApplication1.Tests\\TestWebApplication1.Tests.csproj",
   "expectedPackageFiles": [
